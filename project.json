@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-hs2xv9g1"",
-  ""goal"": ""CLI validator for content moderation"",
-  ""language"": ""python"",
-  ""template"": ""python-cli""
+    "name":  "rndproj-hs2xv9g1",
+    "goal":  "CLI validator for content moderation",
+    "language":  "python",
+    "template":  "python-cli"
 }
